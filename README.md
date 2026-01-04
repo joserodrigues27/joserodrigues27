@@ -2,7 +2,7 @@
 Sou estudante do 8º período do curso de Sistemas de Informação do Instituto Federal do Norte de Minas Gerais (IFNMG) no Campus Salinas. Meu foco atual é estudar Django e Vue.
 
 # Rede Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-rodrigues-47088b285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-rodrigues-47088b285)
 
 # Habilidades e Ferramentas:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
